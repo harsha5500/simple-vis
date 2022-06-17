@@ -1,0 +1,21 @@
+{
+  "name": "simple-vis",
+  "version": "1.0.0",
+  "description": "Simple minimal visualisations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3",
+    "visualisation",
+    "nodejs"
+  ],
+  "author": "Harsha K",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemon": "^2.0.16"
+  }
+}
